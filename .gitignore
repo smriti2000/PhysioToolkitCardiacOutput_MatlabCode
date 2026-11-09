@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# MATLAB temp / autosave
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+
+# Large data files (too big for GitHub; keep locally)
+*.mat
+s00020-*_ABP.txt
